@@ -1,5 +1,5 @@
 #pragma once
 
-namespace skylix::net {
+namespace apiSkylix::net {
     void initNet() {}
 }
