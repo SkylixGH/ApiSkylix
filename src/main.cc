@@ -3,6 +3,7 @@
 #include "net/db.h"
 
 using Logger::about, Logger::info();
+using namespace skylix;
 
 int main() {
     Logger::about("Skylix API Backend Service");
