@@ -1,5 +1,5 @@
 #pragma once
 
-namespace skylix::db {
+namespace apiSkylix::db {
     void initDb() {}
 }
